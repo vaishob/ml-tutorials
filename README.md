@@ -40,7 +40,7 @@ Launch Jupyter Notebook from the command line:
   ```bash
   jupyter notebook
 - 4. **Open the desired tutorial notebook to start learning!**
-
+ 
 ## Requirements
 To run the notebooks, you will need the following Python packages:
 
@@ -48,12 +48,13 @@ To run the notebooks, you will need the following Python packages:
 - `pandas`
 - `matplotlib`
 - `scikit-learn`
--`jupyter`
+- `jupyter`
 
 You can install the required packages using:
 
 ```bash
 pip install -r requirements.txt
+```
 
 ## Contributing
 I welcome contributions! If you have suggestions, improvements, or find any errors, feel free to fork the repository and submit a pull request.
