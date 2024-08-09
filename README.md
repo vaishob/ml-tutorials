@@ -29,17 +29,17 @@ This repository is more than just a collection of tutorials—it's a testament t
 
 ## How to Use
 
-- 1. **Clone the repository:**
+1. **Clone the repository:**
    ```bash
    git clone https://github.com/yourusername/ml-tutorials.git
-- 2. **Navigate to the repository:**
+2. **Navigate to the repository:**
   ```bash
   cd ml-tutorials
-- 3. **Open the Jupyter Notebooks:**
+3. **Open the Jupyter Notebooks:**
 Launch Jupyter Notebook from the command line:
   ```bash
   jupyter notebook
-- 4. **Open the desired tutorial notebook to start learning!**
+4. **Open the desired tutorial notebook to start learning!**
  
 ## Requirements
 To run the notebooks, you will need the following Python packages:
